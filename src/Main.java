@@ -4,9 +4,9 @@ public class Main {
     public static void main(String[] args) {
 
         Tela tela = new Tela();
-
         tela.telaInicial();
-
     }
-    /* TODO falta tratar erros se digitar string no lugar das horas de sono... */
+    /* TODO falta tratar erro ao digitar letra != de s ou n
+    *
+    * */
 }
